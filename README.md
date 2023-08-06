@@ -2,10 +2,11 @@
 
 ## Goals
 - Generate data collection requirements based on MITRE techniques and defined environment variables that satisfies high-level data quality characteristics
-- Develops a (heat) map of data collection coverage based on high-level data quality characteristics that satisfies a given scenario, overlayed on a notional map
+- Develops a (heat) map of data collection coverage based on high-level data quality characteristics that satisfies a given scenario, overlaid on a notional map
 - Uses MITRE ATT&CK Flow to visualize the hypothesized scheme of maneuver
 - Outputs a list of commands to collect the data based on selected capabilities grouped by Technique satisfied 
 - Outputs a list of commands to collect the data based on high-level data quality characteristics
+- Similar to [DeTTECT](https://github.com/rabobank-cdc/DeTTECT), but focused more on specifics and Compromise Assessments
 
 
 ### Data Quality
