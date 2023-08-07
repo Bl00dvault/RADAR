@@ -37,6 +37,9 @@
 - Characteristics Description: The quality of data that is founded on an adequate system of classification and is rigorous enough to compel acceptance (DoD 8320.1-M)
 - Example Metric: Percent of data having values that fall within their respective domain of allowable values
 
+## MindMap
+Create a mindmap for how all the terms relate, and the specific references
+
 ## Usage
 The user must supply:
 - Environment (Targets)
